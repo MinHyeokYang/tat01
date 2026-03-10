@@ -28,9 +28,9 @@ def greet(name):
 greet("홍길동")
 ```
 ## 링크와 이미지
-[Google로 가기](https://google.com, "google link")
-귀여운 고양이 이미지
-![Alt text]([/path/to/img.jpg](https://www.munhwa.com/article/11517505))
+[Google로 가기](https://google.com, "google link")   
+귀여운 고양이 이미지   
+![Alt text](https://www.munhwa.com/article/11517505))  
 ## 할일 목록
 - [ ] 깃헙 계정 만들기
 - [ ] 리포지토리 생성하기
